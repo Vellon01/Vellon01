@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Vellon Moraes</h1>
+<h3 align="center">MSc. Big Data Analytics | AI & ML Enthusiast | Full-Stack Developer | Flutist</h3>
 🔭 I’m currently working on: A Speech Emotion Recognition (SER) internship project and full-stack Next.js applications.<br><br>👯 I’m looking to collaborate on: Open-source AI/ML initiatives or full-stack projects that solve real-world problems.<br><br>🤝 I’m looking for help with: Speech Emotion Recognition (SER) and Facial Micro Expressions Recognition <br><br>🌱 I’m currently learning: Deep Learning architectures for audio processing and scaling big data pipelines.<br><br>💬 Ask me about: Web dev, AI/ML models, Big Data, or why I listen to literally every genre of music.<br><br>⚡ Fun fact: I'm a flutist (beginer)
 
 
